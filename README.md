@@ -150,7 +150,7 @@ Os testes demonstraram a integração funcional da aplicação com o banco de da
 
 ### Aplicação Café
 
-![Aplicação Café](images/aplicacao-cafe.png)
+![Aplicação Café](images/site-cafe.png)
 
 ### Menu de produtos
 
